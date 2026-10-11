@@ -2,98 +2,73 @@
 
 <div align="center">
 
-![Menos iT Consult Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d253f,50:0072ff,100:00c6ff&height=240&section=header&text=Menos%20iT%20Consult&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![Menos iT Consult Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d253f,50:0072ff,100:00c6ff&height=220&section=header&text=Menos%20iT%20Consult&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
-### 💡 Enterprise Web Applications | Fintech & Payment Systems | IT Architecture
+### Custom Software Development | Fintech & Payment Engines | IT Infrastructure
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menos-iT-Consult)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@menositconsult.com)
-
-</div>
-
----
-
-## 🏢 About Menos iT Consult
-
-**Menos iT Consult** is a technology consultancy and custom software development outfit based in **Ghana 🇬🇭**. We engineer scalable digital infrastructure, full-stack web applications, custom e-commerce engines, and utility distribution platforms.
-
-Our primary focus is bridging business needs with modern technology—building reliable, high-performance web systems, managing secure cloud integrations, and automating payment workflows.
-
----
-
-## 💼 Core Service Offerings & Architecture
-
-<div align="center">
-
-| Service Pillar | Description | Key Capabilities |
-| :--- | :--- | :--- |
-| **🌐 Custom Web Apps** | High-performance enterprise portals and web applications. | React, Next.js, Node.js, PHP |
-| **💳 Fintech & Payment Gateways** | Direct payment API integrations for African markets. | Paystack, Mobile Money (MTN, Telecel, AT), ExpressPay |
-| **🛒 E-Commerce Solutions** | Customized storefronts, inventory portals, & POS platforms. | Order management, automated receipting, DB sync |
-| **📱 Telecom & Data Platforms** | Utility & data bundle automation dashboards (e.g., Mac Data Hub). | Automated USSD/API execution, balance triggers |
-| **🛠️ Infrastructure & Security** | Cloud server configuration, domain management, and SSL. | Linux administration, NGINX, Docker, CI/CD |
+<p align="center">
+  <a href="https://your-website.com">
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/globe.svg" width="22" height="22" alt="Website" /> <b>Website</b>
+  </a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/Menos-iT-Consult">
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/github.svg" width="22" height="22" alt="GitHub" /> <b>GitHub</b>
+  </a> &nbsp;&bull;&nbsp;
+  <a href="mailto:contact@menositconsult.com">
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" width="22" height="22" alt="Email" /> <b>Contact</b>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🛠️ Technology Stack & Tools
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/building-2.svg" width="26" height="26" align="center" /> About Menos iT Consult
 
-### Frontend Engineering
+**Menos iT Consult** is a technology consultancy and software development firm based in **Ghana 🇬🇭**. We engineer enterprise-grade web applications, customized e-commerce portals, utility platforms, and automated payment API infrastructure.
+
+Our core focus is delivering seamless, high-performance digital tools that power business operations and optimize consumer workflows.
+
+---
+
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/briefcase.svg" width="26" height="26" align="center" /> Service Pillars
+
+| Icon | Area | Core Capabilities |
+| :---: | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code.svg" width="24" height="24" /> | **Custom Web Applications** | Full-stack web portals, responsive UIs, dynamic APIs |
+| <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/credit-card.svg" width="24" height="24" /> | **Fintech & Payment Systems** | Paystack, Mobile Money (MTN, Telecel, AT), ExpressPay integrations |
+| <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shopping-bag.svg" width="24" height="24" /> | **E-Commerce & Retail** | Custom product catalogs, order processing, inventory sync |
+| <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/smartphone.svg" width="24" height="24" /> | **Telecom & Utility Automation** | Automated data package fulfillment, USSD/API balance triggers |
+| <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/server.svg" width="24" height="24" /> | **DevOps & Cloud Systems** | NGINX, Linux administration, Docker containers, SSL setup |
+
+---
+
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/cpu.svg" width="26" height="26" align="center" /> Tech Stack & Tools
+
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layout.svg" width="20" height="20" align="center" /> Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Backend & API Frameworks
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/database.svg" width="20" height="20" align="center" /> Backend & Storage
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Database Systems & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal.svg" width="20" height="20" align="center" /> DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📌 Highlighted Projects & Ecosystem Modules
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="26" height="26" align="center" /> Featured Projects
 
-### ⚡ Minnah Electricals Web Platform
-> Custom e-commerce and catalog platform designed for electrical equipment distribution, real-time product querying, and order processing.
-
-### 📲 Mac Data Hub & Telecom Automation
-> Specialized web service for utility management, Mobile Money transaction verification, automated data package fulfillment, and instant balance notifications.
-
-### 💳 Local Gateway Interfacing (MoMo & Paystack)
-> Modular backend middleware for seamless integration of Webhooks, Mobile Money pushes, and card collection mechanisms in West African markets.
-
----
-
-## 📈 Organization Performance Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_ORG_GITHUB_HANDLE&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Menos iT Consult GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ORG_GITHUB_HANDLE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-## 🤝 Collaboration & Support
-
-We are open to partnerships, technical consulting, software auditing, and custom development contracts.
-
-* 📧 **Business Inquiries:** `contact@menositconsult.com`
-* 📍 **Base:** Accra, Ghana 🇬🇭
+* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/zap.svg" width="18" height="18" /> Minnah Electricals Platform:** Custom e-commerce catalog and ordering engine.
+* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/activity.svg" width="18" height="18" /> Mac Data Hub:** Telecom utility automated distribution service and Mobile Money interface.
+* **<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield-check.svg" width="18" height="18" /> MoMo / Paystack Integration Middleware:** Modular backend middleware for payment webhooks and processing.
 
 ---
 
@@ -101,6 +76,6 @@ We are open to partnerships, technical consulting, software auditing, and custom
 
 ![Organization Views](https://komarev.com/ghpvc/?username=Menos-iT-Consult&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-*“Building resilient, scalable, and tailored software solutions.”*
+*“Engineering digital platforms that power business growth.”*
 
 </div>
